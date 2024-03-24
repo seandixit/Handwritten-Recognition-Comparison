@@ -1,5 +1,5 @@
 # Handwritten-Recognition project for Intro to AI
-We have provided runtime and accuracy comparison between KNN, SVM and CNN networks in the application of handwritten letter and digit recognition.
+This is a runtime and accuracy comparison between KNN, SVM and CNN networks in the application of handwritten letter and digit recognition.
 
 ## Repository Structure
 There are three python programs for each algorithm:
